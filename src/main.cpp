@@ -10,6 +10,7 @@
 #include "GUIRenderer.h"
 #include "RawModel.h"
 #include "Loader.h"
+#include "MousePicker.h"
 #include "Entity.h"
 #include "TexturedModel.h"
 #include "ModelTexture.h"
@@ -193,6 +194,7 @@ int main() {
 
 	LightSource light(glm::vec3(48, 11, 52), glm::vec3(1,1,1));
 	Camera camera(myWindow.getWindow(), player, chunks, myWindow, hotbar_selection);
+	MousePicker picker(camera, myWindow.getWindow(), myWindow, renderer.getProjectionMatrix());
 
 	for(Entity& entity : entities) {
 
@@ -215,6 +217,9 @@ int main() {
 			}else{
 				GUIs.emplace_back(loader.loadTexture("You_Died"), glm::vec2(0, 0), glm::vec2(1,1));
 			}
+
+			picker.update();
+			std::cout<<picker.getCurrentRay().x<<","<<picker.getCurrentRay().y<<","<<picker.getCurrentRay().z<<std::endl;
 
 			renderer.render(camera);
 			guiRenderer.render(GUIs, player.getHearts(), player.getInventory());

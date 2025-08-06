@@ -13,6 +13,8 @@ class MasterRenderer {
 
     void processEntity(Entity& entity);
 
+    glm::mat4 getProjectionMatrix();
+
     private:
 
         StaticShader& shader;

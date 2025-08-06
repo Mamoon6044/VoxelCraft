@@ -14,6 +14,7 @@ class Renderer {
 
         void prepare();
         void render(std::unordered_map<TexturedModel*, std::vector<Entity*>>& entities);
+        glm::mat4 getProjectionMatrix();
 
     private:
 

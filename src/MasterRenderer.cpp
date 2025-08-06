@@ -16,6 +16,10 @@ void MasterRenderer::render(Camera& camera) {
     //entities.clear();
 }
 
+glm::mat4 MasterRenderer::getProjectionMatrix(){
+    return renderer.getProjectionMatrix();
+}
+
 void MasterRenderer::processEntity(Entity& entity) {
 
     TexturedModel* entityModel = &entity.getModel();

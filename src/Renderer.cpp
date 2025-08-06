@@ -30,6 +30,9 @@ void Renderer::render(std::unordered_map<TexturedModel*, std::vector<Entity*>>& 
         unbindTexturedModel();
     }
 }
+glm::mat4 Renderer::getProjectionMatrix(){
+    return this->projectionMatrix;
+}
 
 void Renderer::prepareTexturedModel(TexturedModel& model) {
     RawModel rawModel = model.getRawModel();

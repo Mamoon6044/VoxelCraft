@@ -1,3 +1,0 @@
-C:/dev/GameDev/build/CMakeFiles/GameDev.dir
-C:/dev/GameDev/build/CMakeFiles/edit_cache.dir
-C:/dev/GameDev/build/CMakeFiles/rebuild_cache.dir
