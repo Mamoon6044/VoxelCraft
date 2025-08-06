@@ -1,0 +1,3 @@
+C:\mingw-w64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\GameDev.dir/objects.a
+C:\mingw-w64\mingw64\bin\ar.exe qc CMakeFiles\GameDev.dir/objects.a @CMakeFiles\GameDev.dir\objects1.rsp
+C:\mingw-w64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\GameDev.dir/objects.a -Wl,--no-whole-archive -o GameDev.exe -Wl,--out-implib,libGameDev.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\GameDev.dir\linkLibs.rsp

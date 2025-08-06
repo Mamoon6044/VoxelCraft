@@ -1,0 +1,134 @@
+[
+{
+  "directory": "C:/dev/GameDev/build",
+  "command": "C:\\mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/GameDev.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameDev.dir\\src\\Camera.cpp.obj -c C:\\dev\\GameDev\\src\\Camera.cpp",
+  "file": "C:/dev/GameDev/src/Camera.cpp",
+  "output": "CMakeFiles/GameDev.dir/src/Camera.cpp.obj"
+},
+{
+  "directory": "C:/dev/GameDev/build",
+  "command": "C:\\mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/GameDev.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameDev.dir\\src\\Chunk.cpp.obj -c C:\\dev\\GameDev\\src\\Chunk.cpp",
+  "file": "C:/dev/GameDev/src/Chunk.cpp",
+  "output": "CMakeFiles/GameDev.dir/src/Chunk.cpp.obj"
+},
+{
+  "directory": "C:/dev/GameDev/build",
+  "command": "C:\\mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/GameDev.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameDev.dir\\src\\ChunkMeshBuilder.cpp.obj -c C:\\dev\\GameDev\\src\\ChunkMeshBuilder.cpp",
+  "file": "C:/dev/GameDev/src/ChunkMeshBuilder.cpp",
+  "output": "CMakeFiles/GameDev.dir/src/ChunkMeshBuilder.cpp.obj"
+},
+{
+  "directory": "C:/dev/GameDev/build",
+  "command": "C:\\mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/GameDev.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameDev.dir\\src\\DisplayManager.cpp.obj -c C:\\dev\\GameDev\\src\\DisplayManager.cpp",
+  "file": "C:/dev/GameDev/src/DisplayManager.cpp",
+  "output": "CMakeFiles/GameDev.dir/src/DisplayManager.cpp.obj"
+},
+{
+  "directory": "C:/dev/GameDev/build",
+  "command": "C:\\mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/GameDev.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameDev.dir\\src\\Entity.cpp.obj -c C:\\dev\\GameDev\\src\\Entity.cpp",
+  "file": "C:/dev/GameDev/src/Entity.cpp",
+  "output": "CMakeFiles/GameDev.dir/src/Entity.cpp.obj"
+},
+{
+  "directory": "C:/dev/GameDev/build",
+  "command": "C:\\mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/GameDev.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameDev.dir\\src\\GUIRenderer.cpp.obj -c C:\\dev\\GameDev\\src\\GUIRenderer.cpp",
+  "file": "C:/dev/GameDev/src/GUIRenderer.cpp",
+  "output": "CMakeFiles/GameDev.dir/src/GUIRenderer.cpp.obj"
+},
+{
+  "directory": "C:/dev/GameDev/build",
+  "command": "C:\\mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/GameDev.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameDev.dir\\src\\GUIShader.cpp.obj -c C:\\dev\\GameDev\\src\\GUIShader.cpp",
+  "file": "C:/dev/GameDev/src/GUIShader.cpp",
+  "output": "CMakeFiles/GameDev.dir/src/GUIShader.cpp.obj"
+},
+{
+  "directory": "C:/dev/GameDev/build",
+  "command": "C:\\mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/GameDev.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameDev.dir\\src\\GUITexture.cpp.obj -c C:\\dev\\GameDev\\src\\GUITexture.cpp",
+  "file": "C:/dev/GameDev/src/GUITexture.cpp",
+  "output": "CMakeFiles/GameDev.dir/src/GUITexture.cpp.obj"
+},
+{
+  "directory": "C:/dev/GameDev/build",
+  "command": "C:\\mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/GameDev.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameDev.dir\\src\\LightSource.cpp.obj -c C:\\dev\\GameDev\\src\\LightSource.cpp",
+  "file": "C:/dev/GameDev/src/LightSource.cpp",
+  "output": "CMakeFiles/GameDev.dir/src/LightSource.cpp.obj"
+},
+{
+  "directory": "C:/dev/GameDev/build",
+  "command": "C:\\mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/GameDev.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameDev.dir\\src\\Loader.cpp.obj -c C:\\dev\\GameDev\\src\\Loader.cpp",
+  "file": "C:/dev/GameDev/src/Loader.cpp",
+  "output": "CMakeFiles/GameDev.dir/src/Loader.cpp.obj"
+},
+{
+  "directory": "C:/dev/GameDev/build",
+  "command": "C:\\mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/GameDev.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameDev.dir\\src\\MasterRenderer.cpp.obj -c C:\\dev\\GameDev\\src\\MasterRenderer.cpp",
+  "file": "C:/dev/GameDev/src/MasterRenderer.cpp",
+  "output": "CMakeFiles/GameDev.dir/src/MasterRenderer.cpp.obj"
+},
+{
+  "directory": "C:/dev/GameDev/build",
+  "command": "C:\\mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/GameDev.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameDev.dir\\src\\Maths.cpp.obj -c C:\\dev\\GameDev\\src\\Maths.cpp",
+  "file": "C:/dev/GameDev/src/Maths.cpp",
+  "output": "CMakeFiles/GameDev.dir/src/Maths.cpp.obj"
+},
+{
+  "directory": "C:/dev/GameDev/build",
+  "command": "C:\\mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/GameDev.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameDev.dir\\src\\ModelTexture.cpp.obj -c C:\\dev\\GameDev\\src\\ModelTexture.cpp",
+  "file": "C:/dev/GameDev/src/ModelTexture.cpp",
+  "output": "CMakeFiles/GameDev.dir/src/ModelTexture.cpp.obj"
+},
+{
+  "directory": "C:/dev/GameDev/build",
+  "command": "C:\\mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/GameDev.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameDev.dir\\src\\OBJLoader.cpp.obj -c C:\\dev\\GameDev\\src\\OBJLoader.cpp",
+  "file": "C:/dev/GameDev/src/OBJLoader.cpp",
+  "output": "CMakeFiles/GameDev.dir/src/OBJLoader.cpp.obj"
+},
+{
+  "directory": "C:/dev/GameDev/build",
+  "command": "C:\\mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/GameDev.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameDev.dir\\src\\Player.cpp.obj -c C:\\dev\\GameDev\\src\\Player.cpp",
+  "file": "C:/dev/GameDev/src/Player.cpp",
+  "output": "CMakeFiles/GameDev.dir/src/Player.cpp.obj"
+},
+{
+  "directory": "C:/dev/GameDev/build",
+  "command": "C:\\mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/GameDev.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameDev.dir\\src\\RawModel.cpp.obj -c C:\\dev\\GameDev\\src\\RawModel.cpp",
+  "file": "C:/dev/GameDev/src/RawModel.cpp",
+  "output": "CMakeFiles/GameDev.dir/src/RawModel.cpp.obj"
+},
+{
+  "directory": "C:/dev/GameDev/build",
+  "command": "C:\\mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/GameDev.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameDev.dir\\src\\Renderer.cpp.obj -c C:\\dev\\GameDev\\src\\Renderer.cpp",
+  "file": "C:/dev/GameDev/src/Renderer.cpp",
+  "output": "CMakeFiles/GameDev.dir/src/Renderer.cpp.obj"
+},
+{
+  "directory": "C:/dev/GameDev/build",
+  "command": "C:\\mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/GameDev.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameDev.dir\\src\\ShaderProgram.cpp.obj -c C:\\dev\\GameDev\\src\\ShaderProgram.cpp",
+  "file": "C:/dev/GameDev/src/ShaderProgram.cpp",
+  "output": "CMakeFiles/GameDev.dir/src/ShaderProgram.cpp.obj"
+},
+{
+  "directory": "C:/dev/GameDev/build",
+  "command": "C:\\mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/GameDev.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameDev.dir\\src\\StaticShader.cpp.obj -c C:\\dev\\GameDev\\src\\StaticShader.cpp",
+  "file": "C:/dev/GameDev/src/StaticShader.cpp",
+  "output": "CMakeFiles/GameDev.dir/src/StaticShader.cpp.obj"
+},
+{
+  "directory": "C:/dev/GameDev/build",
+  "command": "C:\\mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/GameDev.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameDev.dir\\src\\TexturedModel.cpp.obj -c C:\\dev\\GameDev\\src\\TexturedModel.cpp",
+  "file": "C:/dev/GameDev/src/TexturedModel.cpp",
+  "output": "CMakeFiles/GameDev.dir/src/TexturedModel.cpp.obj"
+},
+{
+  "directory": "C:/dev/GameDev/build",
+  "command": "C:\\mingw-w64\\mingw64\\bin\\gcc.exe  @CMakeFiles/GameDev.dir/includes_C.rsp -g -o CMakeFiles\\GameDev.dir\\src\\glad.c.obj -c C:\\dev\\GameDev\\src\\glad.c",
+  "file": "C:/dev/GameDev/src/glad.c",
+  "output": "CMakeFiles/GameDev.dir/src/glad.c.obj"
+},
+{
+  "directory": "C:/dev/GameDev/build",
+  "command": "C:\\mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/GameDev.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\GameDev.dir\\src\\main.cpp.obj -c C:\\dev\\GameDev\\src\\main.cpp",
+  "file": "C:/dev/GameDev/src/main.cpp",
+  "output": "CMakeFiles/GameDev.dir/src/main.cpp.obj"
+}
+]
